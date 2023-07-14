@@ -1,2 +1,0 @@
-# guocd
-GUoCD Gitpage
