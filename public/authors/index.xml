@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on GUoCD</title>
+    <link>https://hugo-calligraphy.netlify.app/authors/</link>
+    <description>Recent content in Authors on GUoCD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-calligraphy.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vpn</title>
+      <link>https://hugo-calligraphy.netlify.app/authors/vpn/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-calligraphy.netlify.app/authors/vpn/</guid>
+      <description>&lt;p&gt;打破信息障碍，是觉醒的第一步！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>offline</title>
+      <link>https://hugo-calligraphy.netlify.app/authors/offline/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-calligraphy.netlify.app/authors/offline/</guid>
+      <description>&lt;p&gt;这里有我们收录的一些离线资源，便于使用者在断网的情况下查阅。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>online</title>
+      <link>https://hugo-calligraphy.netlify.app/authors/online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-calligraphy.netlify.app/authors/online/</guid>
+      <description>&lt;p&gt;如果您已经具备了翻墙的能力。这里，我们为您准备了一些优质的网络资源，可以帮助您看清真相，重塑认知。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
