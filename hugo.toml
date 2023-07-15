@@ -1,4 +1,4 @@
-baseURL = "https://hugo-calligraphy.netlify.app/"
+baseURL = "https://guocdorg.github.io/guocd/"
 title = "GUoCD"
 copyright = "Copyright © 2023"
 paginate = 3
