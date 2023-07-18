@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on GUoCD</title>
-    <link>https://hugo-calligraphy.netlify.app/blog/</link>
+    <link>https://guocdorg.github.io/guocd/blog/</link>
     <description>Recent content in Blogs on GUoCD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 2023</copyright>
-    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-calligraphy.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://guocdorg.github.io/guocd/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>翻墙技术教程</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/vpn/antigfw1/</link>
+      <link>https://guocdorg.github.io/guocd/blog/vpn/antigfw1/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/vpn/antigfw1/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/vpn/antigfw1/</guid>
       <description>VPN 介绍 VPN，全称为Virtual Private Network（虚拟私人网络），是一种通过公共网络（如互联网）建立安全连接的技术。它允许用户在连接到互联网时通过加密和隧道技术创建一个私密的网络，从而保护其在线通信和数据的安全性和隐私。
 使用VPN时，用户的设备（如电脑、智能手机或平板电脑）通过VPN客户端与VPN服务器建立连接。一旦连接建立，用户的所有网络流量将通过加密通道传输，并通过VPN服务器路由。这使得用户的真实IP地址和地理位置得到隐藏，同时所有传输的数据也得到加密，提供了更高的安全性。
 VPN的主要功能包括：
@@ -37,7 +37,8 @@ V2ray使用教程 步骤1 到Github下载V2ray软件, 下载网址：V2ray。另
 添加节点
 免费节点，可以使用搜索引擎搜索
 也可以从机场获取节点，或者是订阅
-这里推荐2个经长期测试，稳定高效的机场。可以获得优质的VPN节点。中国大陆可用
+这里推荐2个经长期测试，稳定高效的机场。可以获得优质的VPN节点。中国大陆可用。
+一个是快银，一个是搬瓦工，官网链接放在文章底部。
 步骤4 复制免费节点
 步骤5 从粘贴板中导入复制的节点
 步骤6 节点测速
@@ -58,10 +59,10 @@ V2rayN官方文档
     
     <item>
       <title>免费VPN教程</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/vpn/antigfw2/</link>
+      <link>https://guocdorg.github.io/guocd/blog/vpn/antigfw2/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/vpn/antigfw2/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/vpn/antigfw2/</guid>
       <description>推荐的免费翻墙软件 Chromego Chromego是一套整合了多个翻墙软件和浏览器的开源项目。项目长期更新，简单易用。但缺点是网速稍慢。但作为一种基础的翻墙手段还是必要的。
 以下是Chromego的下载地址。
 Chromego下载地址
@@ -89,7 +90,7 @@ ipadress
 点击下一步，登陆。
 输入一开始设置的项目团队名称。
 在浏览器新打开的页面中，输入注册的邮箱。
-注意，这个页面有一定的纪律刷不出来，或者提示找不到设备。如果遇到这样的情况。请常识重新操作前面几个步骤。
+注意，这个页面有一定的几率刷不出来，或者提示找不到设备。如果遇到这样的情况。请尝试重新操作前面几个步骤。
 如果这个页面成功出现了，那么恭喜你，你离永久无限翻墙只差一步了。
 输入你注册账号的邮箱，点击发给我一个代码。
 检查你的邮箱，并在刚才的页面，输入收到的验证码。
@@ -104,10 +105,10 @@ ipadress
     
     <item>
       <title>反共资料传播技术</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/vpn/synctool/</link>
+      <link>https://guocdorg.github.io/guocd/blog/vpn/synctool/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/vpn/synctool/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/vpn/synctool/</guid>
       <description>传播真相，是每个人都能做的事情。当你把真相向你的父母讲述，当你把揭露真相的影片分享给朋友，当你开启电脑，使用软件进行传播。这些都是我们力所能及的事情。生而为人，当追求真相，不以善小而不为。
 种子和磁力链接 这里，我们推荐一个长期开源，免费使用的软件，qbittorrent
 qBittorrent 是一款开源免费的种子和磁力链接下载工具，支持 Windows、Mac 和 Linux，且功能非常强大。
@@ -148,10 +149,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共方案：抗争运动</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan1/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan1/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan1/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan1/</guid>
       <description>1. 思考准备阶段。 发起抗争运动应该避免盲目，和非理性。抗争运动要获取更多的共鸣和更广泛的社会认同，就要尽量贴近当前的时政热点。比如说，中国大陆某一天，因为削减养老金而引发了警民冲突。借该热点事件，于其后一周内策划一次抗争运动，将会取得比较明显的效果。
 1.1，明确运动的目标，设计运动的口号。 发起运动前，应该设定一个能够实现的最低目标。比如说，散发5000份宣传单；获得一些人的认同，传达下一次聚集的目的地，时间等信息。目标的设定不宜太宏观，太遥不可及。否则容易造成思想上的混乱。 发起运动前，最好设计一系列的运动口号。
 1.2，如何设计抗争运动的宣传口号？ 一个好的宣传口号能够概括和传递抗争运动的主要诉求和目标，同时也能吸引和激发更多人的参与。以下是设计抗争运动宣传口号的几个要点：
@@ -197,10 +198,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共方案：革命</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan2/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan2/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan2/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan2/</guid>
       <description>反共方案：革命 说起革命，首先我们要知道什么是革命。 革命是指通过暴力或非暴力手段，推翻现有政治、经济、社会制度和文化形态，建立新的政治、经济、社会制度和文化形态的行动。革命常常是由一部分人或组织牵头，动员广大群众参与。革命的本质是一种彻底的改变，它旨在通过推翻现有的政权，建立新的政治、经济和社会制度，实现人民自由、平等、幸福的目标。革命是一种历史现象，在人类社会发展的不同阶段都会出现，其历史影响和社会影响都是深远的。 这里要说明的是，革命并不是目标，而是一个运动过程。
 第一点，革命案例。 下面，我们例举三个距今最近的，而且取得成功的革命，再分析身处中国大陆，我们应该如何进行革命。
 第一个，缅甸革命。 缅甸的革命起源于2021年2月1日，缅甸军方发动政变，推翻了文选政府并掌握了政权。这引发了广泛的抗议和反对，数十万民众走上街头，要求恢复民主和文选政府的执政。政变后的军政府采取了严厉的镇压措施，但并未能够压制抗议活动。
@@ -254,10 +255,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共方案：地下党</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan3/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan3/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan3/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan3/</guid>
       <description>第一，地下党的概念。 地下党是指在某个国家政府或外部势力控制的地区，秘密从事政治或革命活动的组织和成员。在中国历史上，最有名的地下党就是中国共产党。地下党的工作，包含了推动革命进程的方方面面。
 目前，在中国组建地下党是非法行为，不被中国法律所容许。如果没有任何的思想准备，最好不要轻易的加入任何的地下党，或类似的组织。
 第二，成立地下党需要具备哪些必要的条件。 首先，地下党需要有一定的组织能力和秘密工作经验。这是因为地下党必须隐藏于公众视线之外，秘密从事组织和活动，需要具备一定的组织能力和秘密工作技巧。此外，地下党的成员还需要具备一定的革命理论知识和政治觉悟，以便更好地推进革命事业。
@@ -275,10 +276,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共话题：中国分裂</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan4/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan4/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan4/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan4/</guid>
       <description>菲莉絲·施拉夫利说过：共产主义者和纳粹分子一样，都是我们的敌人，他们的目标是打倒自由世界。我要说：中共，是比纳粹还要邪恶的存在，他们的目的是毁灭一切的正义和良知。消灭中共，义不容辞。
 大家好，欢迎来到本频道，今天我们来说一个根据预测的假想话题！
 中国分裂。 在此要特别说明一下，今天的内容全部是作者的个人观点。
@@ -310,10 +311,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共方案：独立建国</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan5/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan5/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan5/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan5/</guid>
       <description>弗里德里希·哈耶克说过：共产主义者打着平等的旗帜，却只是通过剥夺他人自由和财产来实现自己的目标。我要说：中共，不仅仅通过谎言剥夺他人的财产和自由，还要通过暴力杀人。谎言治国，天理难容，推翻中共，义不容辞。
 大家好，欢迎来到本频道，今天我们来说一下如何建国。 今天的话题，有一个假设，就是假设中共国将要衰亡，走向分裂。
 目前，世界上共有197个被普遍认可的国家。在这些国家中，我们选取3个距今最近建国的国家，作为分析案例。看看这3个国家是怎么建立的，又有哪些经验教训值得我们学习呢？
@@ -344,10 +345,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共话题：建立公民社会</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan6/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan6/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan6/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan6/</guid>
       <description>美国前总统罗纳德·里根曾说过：如何判断谁是共产主义者？共产主义者是那些阅读马克思和列宁学说的人；谁是反对共产主义的人？反对共产主义的人是那些理解马克思和列宁学说的人。 我要说：反共，要从让大部分中国人建立新的认知开始。消灭邪党，人人有责。
 大家好，欢迎来到本频道，今天我们来聊一下具体如何建立公民社会。 那什么是公民社会呢？ 简单来说，公民社会就是介于个人和国家之间的一个领域，由各种相对独立的组织和团体构成的自治社会。其内涵包括公民权利、公民参与和公共利益三个方面。
 首先，公民社会的内涵之一是公民权利。公民权利是指国家赋予公民的享有自由、平等、公正、合法权益的权利，例如言论自由、选举权、财产权等。这些权利的保障需要依靠法律制度和法治体系，而公民社会的发展也需要法治的支持。
@@ -394,10 +395,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共话题：制订宪法</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan7/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan7/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan7/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan7/</guid>
       <description>大家好，欢迎来到本频道，今天我们来聊一个关于制定宪法的话题。 在这之前，我们需要做一个关于中国的基本假设。假设中国走向分裂不可避免，新的国家必将诞生。
 在展开话题之前，我们还需要特别强调一下，我们今天话题的内容讨论的是真正的宪法，而不是“中国宪法”。关于这两者的区别，会在后面的例子里进行说明。
 在上一期影片中，我们说过了如何建立公民社会，而在建立公民社会的过程中，要确保公民社会能持续，有效的在良性循环里发展，就需要有成熟且健全的法律作为保障。而订立法律之前，宪法作为国家的立国精神和立国的原则，就变得及其重要。
@@ -433,10 +434,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共话题：开放网络，取消防火墙</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan8/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan8/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan8/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan8/</guid>
       <description>纽约客曾说过：在互联网上，没人知道你是一条狗！ 如今，在中国，中共不但知道你是一条狗，还能把人变成一条狗！
 大家好，欢迎来到本频道，今天我们来聊一下新国家具体如何开放网络，取消防火墙。 今天的话题，还是以中国分裂后，新国家建立为基本的假设。
 我们知道，中共用几十年的时间，在中国打造了一个防火长城，为了控制人民获取信息的渠道，对人民进行洗脑，通过DNS污染，封锁IP，过滤敏感词等手段，实现了对网络自由的高度控制。最终打造出了一个近似于完全封闭的内网网络环境。
@@ -456,10 +457,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共话题：让新闻媒体回归原本的职能</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan9/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan9/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan9/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan9/</guid>
       <description>大家好，今天我们来说一下如何让新闻媒体回归原本的职能。 在这之前，我们需要做一个关于中国的基本假设。假设中国走向分裂不可避免，新的国家必将诞生。
 说这个话题前，我们不得不分析一下当前中国新闻媒体的现状，知道了现状，才能更好的分析其原因。
 我们知道，新闻媒体最原本的职能是通过收集，编辑，报道和传播新闻信息，为公众提供真实，客观，全面，准确的新闻报道和评论，促进社会舆论的公正，理性，平衡和民主化，起到监督，监察和制衡政府，企业和社会机构的作用，为社会稳定和进步提供坚实的信息支撑和舆论基础。新闻媒体监督作用的本质是作为公共利益的代表，履行对政治，经济和社会生活的监督职责，推动权力的公开，透明和负责，促进民主和法治的建设。
@@ -485,10 +486,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>反共话题：建立社会保障体系</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan10/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan10/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan10/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan10/</guid>
       <description>大家好，今天我们来说一下如何建立社会保障体系。 在这之前，我们需要做一个关于中国的基本假设。假设中国走向分裂不可避免，新的国家必将诞生。
 中国走向分裂后，新独立出来的国家，前期一定会面临很多问题。而其中最严重的问题，就是社会保障体系的搭建。因为这关系到全体国民最基本的生老病死，人民最基本的生存权利得到保障，新国家才能逐步走向稳定。
 为一个国家建立社会保障体系是一个复杂的过程，需要充分考虑国家的国情，发展水平，文化等因素。在建设过程中，可以借鉴其他国家的成功经验，但不能简单复制照抄。
@@ -513,10 +514,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>热点话题：我为什么支持西藏独立</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan11/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan11/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan11/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan11/</guid>
       <description>我为什么支持西藏独立 达赖喇嘛说过：从不同角度审视境遇，你的视野会更开阔。今天，我们就从一个中国人的视角谈一下，为什么我支持西藏独立。
 我曾经3次去过西藏，两次是旅游的原因，一次是工作的原因。而这三次经历，每一次都让我更加深刻的反思西藏的问题。
 今天的话题，可以说，是我本人对西藏问题的一个梳理。也是我第一次，尝试陈述我的观点，我支持西藏独立。
@@ -545,10 +546,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>热点话题：无法离开的中国人应该怎么做？</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan12/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan12/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan12/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan12/</guid>
       <description>无法离开的中国人应该怎么做？ 往一个蚂蚁窝不停灌水，蚂蚁就会迁移到更加适合生存的地方。蝼蚁尚且懂得选择适合的生存环境，何况是人呢？
 大家好，针对当下中国的情况。我们今天来探讨一个非常有争议的话题，无法离开的中国人应该怎么做？
 近期，根据多个媒体报道，中国大陆资产超过百万美元的高净值人士，近年来持续不断离开中国，2023年离开的高净值人士预计会突破100万人。除了少部分因为旅游，探亲，商务原因短期离开中国的人，大部分的高净值人士，都选择移民。移民的同时，他们拥有的庞大资产，也随着他们转移到了国外。
@@ -578,10 +579,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>党史揭秘：盘点中共建党102年的丑事！</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan13/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan13/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan13/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan13/</guid>
       <description>2023年7月1日，是中共建党102年的纪念日。
 今天，我们来简单翻一翻中共党史。 百年前，十几个年轻人把马列引入中国，从此，红色魔鬼在中华大地上横行肆虐。
 1927年，以毛泽东为首的中共，开始了一场以谎言欺骗民众，制造内乱，篡权的阴谋。
@@ -622,10 +623,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>热点话题：别让抑郁症毁掉中国的年轻人！</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan14/</link>
+      <link>https://guocdorg.github.io/guocd/blog/guocdarticles/plan14/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/guocdarticles/plan14/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/guocdarticles/plan14/</guid>
       <description>别让抑郁症毁掉中国的年轻人！ 2023年7月5日，华语歌手李玟因抑郁症病情严重，轻生离世。该事件再一次让抑郁症引发公众关注。
 抑郁症是一种复杂的心理疾病，其成因涉及多种因素的综合作用。每个人的情况不同，抑郁症的成因可能因人而异。但总体来说，大致有以下几个成因。
 成因一，生物学因素。遗传因素可能在抑郁症的发生中起一定的作用。有研究表明，抑郁症在家族中具有一定的遗传倾向。此外，神经质的不平衡，如血清素，多巴胺和肾上腺素，也与抑郁症的发生相关。
@@ -656,10 +657,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：关于中国的100个常识</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/chinesecommonsense/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/chinesecommonsense/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/chinesecommonsense/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/chinesecommonsense/</guid>
       <description>作者简介 陈破空，原名陈劲松。旅美经济学者、时事评论家、作家。 1963年12月生于中国四川省三台县。 教育背景： 湖南大学，土木系，本科。 上海同济大学，管理学院，研究生。 美国哥伦比亚大学，公共管理(经济学)，硕士。 学术背景： 广州中山大学，经济系，助教。 美国哥伦比亚大学，访问学者。 自由亚洲电台，财经评论，特约评论员。 政治活动： 1985：带领10名研究生，联名上书中共总书记胡耀邦，力促政治体制改革，并于次年夏与中共中宣部对话。 1986：参与策划、推动上海学潮。 1989：参与发起、组织广州学潮。 1989-1995：两度入狱，坐牢近5年。 1994：从狱中向联合国等国际机构辗转寄出信件，提供中共强迫犯人生产出口劳改产品的商标等证据，是直接从监狱中向国际社会提供此类证据的第一人。 各类著述： 文学作品： 代表作：小说《台风》、《半截生命》，诗集《绯闻》，文艺评论《“走向共和”：生动展示历史的惊人相似》，等等。 政治评论： 代表作：《关于中国的一百个常识》，《林昭，中华民族最后的血性》，《谁是真正的改革家？》，《胡耀邦与八六、八九》，《透视毛泽东》，《中俄联合军演，激起千层浪》，《金正日的单相思》，《中共改革迈牛步》，《共产党是两岸统一的最大障碍》，等等。财经评论：代表作：《中国经济：阴影下的繁荣》，《透视中国富豪的命运与结局》，《“上海帮”治国十三年》，《中国，印度，俄罗斯：新世纪孰领风骚？》，《中国经济：是大市场，也是大赌场》，《向非洲撒钱，中共用意何在？》，等等。经常发表文章的机构、杂志、报纸等，包括：自由亚洲电台、《开放》、《北京之春》、《华夏电子报》、《大纪元》、《争鸣》等。经常出场的直播或访谈节目机构，包括：《新唐人电视台》、《美国之音》等。2007年：基于深度写作和评论，及其在海内外的影响力，荣获美国“万人杰新闻奖”。个人网站：www.chenpokongvip.com
 书评 朴素的常识，挑战恐惧 “要有勇气运用你自己的理智”——读陈破空《关于中国的一百个常识》 胡平 在近些年来海外出版的众多的有关当代中国问题的著述中，陈破空先生这本《关于中国的一百个常识》称得上别具一格。作者按照&amp;quot;历史&amp;quot;、&amp;ldquo;现实&amp;quot;和&amp;quot;未来&amp;quot;三方面，列出了一百个问题。这一百个问题不但都很重要，而且也是不少人都感到困惑，因而急需解答和澄清的。在每一个问题下，作者写出了自己的观点，文字简洁通俗，议论深入浅出。作者称之为&amp;quot;常识&amp;rdquo;，这自然会使人联想到美国革命前夕潘恩的那本风靡一时的小册子《常识》。两者都是为了破除流行的谬见，诉诸普通人的良知与理性。一百节短论，各自独立成篇，合起来又是一个整体。你可以依着顺序从头读到尾，也可以随便打开一页，任意选读其中的这一节或那一节。这确实是一本很好的大众启蒙读物。 谈到启蒙，什么是启蒙？按照德国哲学家康德的阐述：&amp;ldquo;启蒙（运动）就是人类脱离自己所加之于自己的不成熟状态，不成熟状态就是不经别人的引导，就对运用自己的理智无能为力。当其原因不在于缺乏理智，而在于不经别人的引导就缺乏勇气与决心去加以运用时，那么这种不成熟状态就是自己所加之于自己的了。要有勇气运用你自己的理智！这就是启蒙运动的口号。&amp;rdquo; 在这段话里，康德强调勇气，因为妨碍启蒙的最主要的因素是怯懦，是恐惧。现在一般人在回顾过去我们对共产党的迷信时，常常是把这种迷信简单地归结为思想认识上的天真幼稚。其实就是在过去，妨碍我们识破共产党谎言的主要因素也是恐惧。举一个小例子就足以说明问题。在毛泽东时代，假如你在私下场合向一位你信赖的长者――父母、老师或领导干部――交流思想，你谈到你对社会现实的某种不满或是对共产党的理论、政策持有某种不同意见，哪怕仅仅是有疑惑，想不通，对方往往不是心平气和地和你讨论，而是十分紧张地警告你&amp;quot;这种思想很危险！&amp;ldquo;这里所说的危险，不是说你这种思想一旦付诸实施会给他人或社会造成什么灾难，而是说你这种思想倘若公诸于世必将给你个人的处境带来极大的损害。在这里，你的思想并非由于错误因而危险，而是因为危险所以错误；对方不是站在是非的角度反驳你，而是站在利害的角度劝阻你。可见一般人之所以拒绝运用自己的理智进行思考，首先是出于恐惧，出于对受惩罚的恐惧。不错，在当年，我们都信仰过毛泽东，但是我们的信仰往往并不是批判性思考的产物，而是因为我们不曾怀疑；不曾怀疑的原因则是我们下意识地懂得怀疑会招致可怕的后果。也就是说，我们由于不敢怀疑而不去怀疑，由于不去怀疑而没有怀疑，到头来连我们自己都以为我们真的是百分之百地信仰了。 恐惧感当然是来自于迫害，来自于压制。然而，当恐惧感强化到一定程度，当迫害和压制持续到一定程度，人们常常会在自觉的意识层面上忘掉恐惧与压制的存在。人心都有趋利避害的习惯。一旦人们意识到某种思想是被严格禁止的，我们就常常会置之脑后，不再去思考它。既然我们出于恐惧而不再涉入禁区，那么由于我们不再涉入禁区因而也就不再感到恐惧。这一点在&amp;quot;六四&amp;quot;之后表现得尤为突出。&amp;ldquo;六四&amp;quot;屠杀给国人造成了强烈的恐惧，出于恐惧，多数人不得不远离政治；而一旦远离政治，他们也就不再感到压迫的存在，眼不见心不烦，因此他们就自以为生活得自在而潇洒。这时候，你要是提醒他们说他们实际上生活在恐惧之中，许多人大概还会不承认呢。 陈破空先生这本书的价值不仅在于它讲出了朴素的常识，更在于它鼓励读者独立思考。一旦有更多的人敢于运用自己的理智，中共专制的末日就近了。 2007年4月2日 于纽约 此文于2007年06月26日做了修改
 恐惧 误区和常识 读陈破空的新书《关于中国的一百个常识》有感 作者：萧劲 【大纪元7月6日讯】拿到陈破空的新书《关于中国的一百个常识》，就一口气读了好多篇。这本书谈到的内容和问题都是我们平时聊天可能提到的话题，好多问题是我们思想中的误区，是心灵深处的禁区和恐惧。 前几天我还打电话给陈破空，建议他这本书改名为中国的一百个误区，一个是这个名字更吸引读者，二是我认识的友人中不少人对中国的问题还真的是有不少误区。陈破空回答说：这些问题本来就是常识嘛，把误区澄清后就是常识了。 书中的每个问题和回答的篇幅都一到二页，还配有许多精采的插图。试回答以下看似常识的问题：谁领导了抗日战争？谁挑起了朝鲜战争？文革到底是怎么回事？谁篡改了历史教科书？中国人站起来吗？如果读者对这些历史问题的答案是和中共的教科书上说的差不多，建议你读一读《关于中国的一百个常识》会有新的发现。 中国环境污染有多重？中国奥运金牌代价知多少？中共离退休高官每年挥霍知多少？中国民众负担有多重？中国援外知多少？谁是“少数人”或“一小撮”？如果你不知这些问题的答案，说明你不清楚中共到底干了些什么，建议你读一读这本书。 谁是中国崛起的最大阻力？中国人口多，就不适合搞民主嘛？中国人的素质差吗？为什么说中共必然覆灭？没有共产党，中国怎么办？你是怎么看这些问题的。 这些问题，在共产党的党文化词典里，有一套说法，在中国大陆依然不可以公开讨论的禁区。跨过这个禁区可能就会有危险，即使私下谈也会有恐惧感。党控制的媒体按照党文化词典里的答案不断的重复它的谎言，就成了一个个的误区。《关于中国的一百个常识》就是要把人们认识中的误区更正过来，恢复原本是常识的答案。 在这本书的后记中，陈破空谈到他童年的记忆，就是一个大写的恐怖。我和陈破空都是六十年初出生的人，我和他有相似的感觉。我观察到六十年代出生的人这种恐惧感特别明显，建议研究文革的学者们研究文革十年浩劫对不同年龄的人造成的心里伤害。记得纽约911纽约的青少年在心理上都受到了不同程度的伤害，接着医学和心理学者们，整个社会都在关心这件事情。 在我们大约3岁的时候，文革开始了。从人的心里发育来说，这是一个人从婴孩开始用自己的眼睛感受世界。那个时候，中国的城里和乡下都处在一种人斗人的血腥之中，眼中的大人们好像疯子一样，整天就是游行游街，开批斗会。我的印象最深的就是恐惧。这种恐惧是从我童年开始就形成的，后来慢慢成为我思维和记忆中的一部份，已经觉察不出来这是恐惧。只要共产党公开宣称某某人或某某团体是它的敌人，我就不敢违背共产党的说词，尽管我知道它宣称的人或团体根本不是什么敌人。即使在思想上也不敢违抗，因为我害怕被共产党视为它的敌人或异己分子。后来来到西方社会，才慢慢的从这种恐怖环境中解脱出来。我以为自己已经彻底从中共的恐怖中摆脱出来了，但有一件事使我意识到我对中共的恐惧仍然是心有余悸。大约三四年前，一位和我熟悉的民运朋友聊天时说，你和我们反共义士一起做什么什么。我一听“反共义士”这几个字，心里就不舒服。后来才意识到其实还是一种恐共心理。后来我公开退团（很幸运我没有加入共产党）后，才真正感到轻松了。 陈破空没有告诉我他是如何从童年的恐惧中走出来的。但是我相信他是首先从恐怖中走出来的，才开始真正了解中共的谎言。@* 于7月4日美国独立日 附：《关于中国的一百个常识》购书信息 本书在台湾香港和北美等地书店均可购买。读者也可以直接和美国博大书局（Broad Book USA）联系购买。 电话：免费直拨1-888-268-2698 1-718-886-7080 电子邮件：order@broadbook.com 网上购买：www，broadbook.com
@@ -669,10 +670,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：三年自然灾害--来龙去脉解密</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/thegreatfamine/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/thegreatfamine/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/thegreatfamine/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/thegreatfamine/</guid>
       <description>三年自然灾害&amp;ndash;来龙去脉解密 作者：周湘灵
 前言 50年代中期及此前出生的中国人，回忆1959年至1961年这段非常时期，一般称之为“三年苦日子”，而官方则用“三年自然灾害”。在此期间因饥馑而非正常死亡（饿死）的人民多达3000多万人，是8年抗日战争期间因战乱死亡人数的一倍半。在人类历史上，这是和平时期因饥馑死亡人数的最高纪录。这样一件亘古少见的惨祸，在中共官方的正史中却一直用“特大自然灾害”以遮蔽。
 谎话重复一千遍就变成真理，在中共反复宣传下，“三年自然灾害”在中国人的记忆中渐渐成为一个俗成约定的历史名词。近几年偶而因海外媒体揭露，中国人虽然知道在这三年当中确有几千万人饿死，个别老人也还记得当时吃人肉的残酷情形，但大多数中国人已经接受这一看法：特大经济困难纯粹是因为自然灾害。
@@ -720,10 +721,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：习近平于他的情人们</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/xiandhislovers/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/xiandhislovers/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/xiandhislovers/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/xiandhislovers/</guid>
       <description>前言 这本书值得一读。在这本书里面，作者以白描的手法，简洁洗练地刻画出了本书主人公习近平的丰富的感情生活，包括婚外恋的片段花絮。把习近平在继承大位之前，特别是担任地方长官，封疆大吏期间的诸多情人，丰富的情史，如数家珍，娓娓道来。
 这里，作者根据手头掌握的详实的第一手资料，向读者呈示了本书主人翁的种种不为人知的风流韵事。难能可贵之处在于，本书作者并没有使用A片手法来绘声绘色地描绘性爱场景。这里并没有本书主人公在不同时期和不同的情侣之间高潮迭起，活色生香的床戏情景的媚俗描述。作者在这类描写上往往惜墨如金，点到为止，给读者留足想象的空间。愈加叠显作者笔法老辣，功力非凡的特点。特别值得指出的是，本书作者并没有任何刻意把笔下的人物漫画化，脸谱化或卡通化的倾向，而是本着手头掌握的详实素材，平铺直叙地还给本书主人公一个真实的样貌：一个有血有肉，五情六欲兼备，生理心理素质俱佳，在无损大雅的场合，甚至还可以忠厚宽容仁恕称道的人中龙凤。说到人中龙凤，本书作者甚至借用了中国传统文学中经常出现的玄学手法，以金龙显形来比喻习近平的天命所归。由此可见，本书成书的本意显然不是用来为难或丑化当今中南海里那位权势熏天的新贵的。
 本来，食色性，人之大欲也。习近平拥六尺之躯，体格健硕，脱困之后，长期游走中共官场，如鱼得水，一路顺风，在地方长期手握利权兼生杀与夺之权。且无任何宗教信仰之羁绊，“为人民服务”之余，偶然翻滚于性海欲波之间，本无可厚非。特别是任职闵浙，为民父母期间，坊间同僚间对此君历来有“习非爱财，唯好色”的溢美之词。诚非爱财，习家聚敛之财，根据纽约时报爆料，无非十亿百亿之数，比起那些动辄以千数亿计的同僚下属，其清正廉明，诚不可同日而语。现在看来唯好色一项，却是伯仲之间，不相上下。
@@ -786,10 +787,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：致命的自负--社会主义的谬误</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/fallacyofsocialism/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/fallacyofsocialism/</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/fallacyofsocialism/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/fallacyofsocialism/</guid>
       <description>中文版导言 哈耶克的名字在中国也许已经不为人们所陌生，但对他的思想及主张能有较为全面而深入了解的人却不是很多，甚至在中国的知识界也是如此。《致命的自负》是哈耶克生前最后一部作品，也是他最重要和最具有代表性的著作之一。同时，作为这套“西方现代思想丛书”中的一种，这也是第三次选择译介他的著作（前两种分别是《通往奴役之路》和《自由宪章》）。而这部著作又不同于以往，在某种程度上，它实际上是“哈耶克对自己毕生所反对‘极权社会主义’的思想努力的总结”。正是由于本书集中体现了哈耶克全面而系统地批判他所谓的“社会主义”的主题，认为“社会主义”的思想主张是一种“致命的自负”、“一种谬误”，它的译介出版势必会在中国读者中产生影响。这样，如何正确理解哈耶克所谓的“社会主义”的概念，自然就成为受人关注的问题。
 事实上，哈耶克的“所谓‘极权社会主义’是指20世纪上半叶出现在欧洲的那种‘社会主义’，它与20世纪后半叶在亚非拉民族独立运动中崛起的‘第三世界社会主义’有本质的不同。后者的合法性建立在受到西方殖民主义压迫的民族利益自觉的基础上，前者的合法性则立基于对西方资本主义现状的‘彼岸’的向往。欧洲的社会主义，与它的对立物——欧洲资本主义一样，被韦伯定义为‘理性社会主义’，与‘理性资本主义’构成一对政治范畴。在这样的思想视角下，哈耶克以这本书的副标题——‘社会主义的谬误’挑明了对‘社会主义’的批判，就应当被理解为是对‘理性社会主义’及其思想根源——‘建构理性’的批判”。哈耶克的矛头所向实际上是指韦伯等代表人物鼓吹的西方国家中的多数“左派”政党所吹捧的那个“社会主义理想”。这一点是读者在阅读本书时所必须加以把握的。
 其次，哈耶克作为西方国家中右派政治势力所极力推崇的理论家，其与马克思主义的对立是不言而喻的，但哈耶克更多地是从学术的角度来阐释他的思想主张，而且其中也不乏某些“亮点”。比如，哈耶克反对意识形态领域的霸权主义。反对西方某些国家凭借其经济政治实力向全世界推行其价值观的做法。尽管他毕生极力鼓吹自由主义市场经济，捍卫现行的资本主义制度，他将之称之为“自发秩序”和“扩展秩序”；但他认为这种“扩展秩序”在一个国家或民族中只能是在“无人能知其后果的情况下，在漫长的岁月中自发进化而形成的”。它不是“某个主体的自觉设计的结果”。由此推之，它因而更不能靠外部力量强加和推动，一个国家选择何种“秩序”是其内部因素自主自发地发展的结果。
@@ -845,10 +846,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：中国农民调查</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/chinesefarmersurvey/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/chinesefarmersurvey/</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/chinesefarmersurvey/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/chinesefarmersurvey/</guid>
       <description>作者：陈桂棣 春桃 中国是一个农业大国，十三亿人口就有九亿农民，可是，很久以来，农民在农村中的生存状态究竟如何，绝大多数城市人并不清楚。现在，越来越多的农民，放弃了曾视为生命的土地，远离了曾经日夜厮守的村落和熟悉的农事，宁可忍受寂寞、屈辱与歧视，也要涌进各地城市，于是，数以百万计的中国农民掀起的“民工潮”，便一次又一次成为上个世纪最后十多年的一道奇异的风景……
 引言：在现实与目标的夹缝中 中国是一个农业大国，十三亿人口就有九亿农民，可是，很久以来，农民在农村中的生存状态究竟如何，绝大多数城市人并不清楚。只依稀记得，上个世纪七十年代末那场让整个世界都为之震惊的伟大改革，是从农村开始的，自从农村实行了以“大包干”为标志的家庭联产承包责任制，农业生产上连年获得大丰收，很快就出现了“卖粮难”，而且冒出了许许多多“万元户”。一时间，中国的农民好像已经富得流油了。然而，以后不久，随着城市改革的不断深入，我们就很少再听到有关中国农业、农村和农民的消息了。不过，稍后就发现，越来越多的农民，放弃了曾视为生命的土地，远离了曾经日夜厮守的村落和熟悉的农事，宁可忍受寂寞、屈辱与歧视，也要涌进各地城市，于是，数以百万计的中国农民掀起的“民工潮”，便一次又一次成为上个世纪最后十多年的一道奇异的风景。
 这些年，因为致力于报告文学的写作，我们有机会经常深入各地农村，同时，结交了不少农民朋友，常听他们聊一些农村里的事。我们发现，原先存留在我们印象中的那一幅幅乡间风俗画，不过都是遥远而虚幻的田园牧歌，或者说，是过惯了都市浮躁生活的城里人对乡间的一种向往。而现实生活中的农村并非如此，或者说，农民眼中的农村并非如此，他们没有这样的闲情逸致，他们活得很累、很沉重。
@@ -917,10 +918,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：正义论</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/atheoryofjustice/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/atheoryofjustice/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/atheoryofjustice/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/atheoryofjustice/</guid>
       <description>A Theory of Justice 作者：约翰·罗尔斯
 前言 在提出关于正义的理论时，我试图把过去十几年中我所撰写的论文中的思想集中起来，使之成为一种条理分明的观点。这些论文所讨论的全部问题又一次被提了出来，而且一般都更为详细。为了使这一理论圆满无缺，对另一些问题也进行了讨论。对这一理论的阐述共分三编。第一编涉及了《正义即公平》（1958年）和《分配的正义：补遗》（1963年）中所讨论的范围，而第二编的三章则分别相应地讨论了《宪法自由权》（1963年）、《分配的正义》（1967年）和《非暴力抵抗》（1966年）等问题，但有多处补充。最后一编的第二章涉及了《正义感》（1963年）方面的问题。除几个地方外，这一编的其他各章与已发表的论文并不对应。虽然主要思想基本上相同，但我试图消除论据上的前后矛盾，并对许多论点予以充实和加强。
 下面也许是我对本书目的所作的最好说明。在近代很大一部分道德哲学中，主要的系统理论一直是某种形式的功利主义。原因之一是，有一大批才华横溢的作家都信奉这种理论，他们建立了一个无论在广度或深度方面都真正令人难忘的思想体系。我们有时忘记了休谟、亚当·斯密、边沁和穆勒这些大功利主义者都是第一流的社会理论家和经济学家，他们的道德学说是为了满足他们广泛兴趣的需要和配合一种全面的安排而提出来的。批评他们的人往往是在一条狭窄得多的战线上对他们进行批评，指出了功利原则的难解之处，并提到了这一原则的含义与我们道德感情的矛盾。但我认为，他们并没有能够创立一种切实可行的系统的道德观来反对功利原则。结果，我们往往似乎不得不在功利主义与直觉主义之间进行选择。我们最后的落脚点很可能就是一种变相的功利原则，虽然这个原则在某些特定方面已经由于直觉主义的制约而受到了限制。这种看法不无道理；我们也没有把握可以提出更有道理的看法。但这并不成为不去一试的理由。
@@ -988,10 +989,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：极权主义的起源</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/originsoftotalitarianism/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/originsoftotalitarianism/</link>
       <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/originsoftotalitarianism/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/originsoftotalitarianism/</guid>
       <description>作者：汉娜.阿伦特 翻译者：蔡英文
 第一部 反犹主义 《反犹主义》序言 反犹主义（Antisemitism）是一种世俗的十九世纪意识形态。它的名称一一虽然不是它的争论之处一一在十九世纪七十年代之前还不为人知晓。它同宗教方面由于两种不同的教义互相敌对而煽动起来的仇恨犹太人（jew-hatred）明显地不是一回事；甚至连反犹主义是否仇视犹太人获得理论根据和感情缘由，也还是个问题，从罗马帝国期到中世纪、近代和现代，犹太人连续不断地遭到迫害、驱逐和屠杀，有一种观点认为，反犹主义只不过是中世纪普遍迷信的一种世俗翻版，这种观点常常掩饰着一种谬论，它无异于（尽管它的有害程度比不上）一种相应的反犹主义的说法说是有一个秘密的犹太社会，自古以来一直统治着、或者有野心去统治世界。从历史上看、中世纪晚期到近代，犹太人事物的间断比古罗马到中世纪之间的断裂更显着，也比从中世纪早期到灾难性的地一次十字军东征之的鸿沟（这常被认为是犹太人历史上走向散居[Diaspora]最重要的转折点）更明显。因为中世纪晚期到近代的间断持续了将近两个世纪，从十五世纪一直到十六世纪末，期间犹太教与异教之间的关系（Jewish-Gentile relations）降到了有史以来最低点，犹太人“对外部世界条件与时间的漠不关心”却达到最高点，而犹太教成了“比以往任何时候都要封闭的一种思想体系。”就在此时，犹太人在无外来干涉的情况下开始思考“犹太民族和个民族之间的差异不在于教义和信仰，而在于内在天性”，犹太人同异教徒之间古老的二分法，“与其说是教义争执，不如说是种族根源。”这种对犹太人异种特征的评价只是到了教晚的启蒙时期（Age of Eenlightenment）才在非犹太人中盛行，并且明显地是产生反犹主义的必要条件，重要的是必须指出，它首先产生于犹太人的自我解释，当时欧洲基督教世界分裂成许多种族群体，它们在政治上各自进入近代国家的体系。
 反犹主义的历史同仇视犹太人的历史一样，是在犹太人散居的条件下犹太人同异教徒之间关系的长期缠结之重要部分。在十九世纪中叶之前，人们对这段历史实际上不感兴趣，这种兴趣的产生是在反犹主义兴起时，及狂怒地反对解放和同化犹太民族之时——这明显地是建立可信的历史纪录的最坏基底。自从那时起，犹太的和非犹太的历史著作都一样荒谬地——尽管大多数出于各种相反的理由一一将源自基督教和犹太教的敌对因素孤立起来，强调一系列灾难、驱逐、屠杀切断了犹太历史，正如他们强调欧洲历史被各种武装的和非武装的冲突、战争、饥馑飞瘟疫切断了一样。无须补充说，正是是犹太历史著作以强烈的理论偏见来追述基督教历史上仇视犹太历人的记录，而又是反犹分于在追踪和古代犹太权威在知识上并非大不同的记录。当基督徒和异教徒之间经常性的暴力冲突的犹太传统公诸于世界时，“一般犹太公众不仅愤怒，而且真正感到了震惊，”犹太传统的代言人如此成功地使他们自己和每一个人都相信一个非事实，犹太人的隔离状态完全出于异教徒的仇视和缺乏启蒙。现在主要是由一些犹太历史学家在坚持这样的观点：犹太教一向高于其它宗教，因为它相信人类平等和宽容。这种自信的理论，以及相信犹太人一向是被动在基督教迫害下受难，事实上延长了关于上帝选民的古老神话，并且使这种神话现代化，这势必结束在一种新的、往往是非常复杂的隔离情况。注定要支撑古老的“犹太-异教”的两分法。这似乎是为了那些不管出于何种原因，都试图润色和窜改政治事实与历史记录的人所积聚的反讽之一。因为如果犹太人在任何一点上同他们的非犹太人邻居一致拥护他们新近宣称的平等的话，那么正是在宗教上命中注定互相敌视的过去历史，是和其最高层次的文化成就，及在未受教育的大众层次上无限的狂热和野蛮的迷信，同样丰富。
@@ -1033,10 +1034,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：08宪章</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/charter08/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/charter08/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/charter08/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/charter08/</guid>
       <description>作者简介：
 刘晓波（1955年12月28日－2017年7月13日），吉林省长春人，2010年诺贝尔和平奖得主，中国作家、社会活动家、文学评论家、人权活动家，《民主中国》网刊主编、《零八宪章》主要起草人之一。
 刘晓波毕业于吉林大学中文系本科，北京师范大学中文系硕士、文艺学博士，曾担任北京师范大学中文系讲师、独立中文笔会第二届及第三届会长、《民主中国》网刊主编，曾经参与六四事件，后被捕入狱。他毕生致力于宣传政治改革及参与旨在终结中国共产党的一党专政的运动而多次被拘捕判刑。1995年被北京市公安局以“监控居住”的形式关押。1999年以“扰乱社会秩序”被处劳动教养三年。2009年，因“涉嫌煽动颠覆国家政权罪”被逮捕，并于同年12月25日被判处有期徒刑11年，剥夺政治权利2年。
@@ -1086,10 +1087,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：天葬--西藏的命运</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/tibetfate/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/tibetfate/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/tibetfate/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/tibetfate/</guid>
       <description>作者：王力雄
 序 感谢多年来在我游历西藏、进行采访、讨论和写作此书的过程中为我提供过各种帮助的朋友，为了避免给他们造成麻烦，这里不能提到他们的姓名，但是没有他们的帮助，我肯定无法把这本书奉献给读者，从这个意义上讲，他们应该是这本书的共同作者。
 序一
@@ -1158,10 +1159,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：费城风云</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/phillyvice/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/phillyvice/</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/phillyvice/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/phillyvice/</guid>
       <description>前言 本次再版的三本书《费城风云》、《帝国的惆怅》和《帝国的终结》，都是关于政治史的，合起来可以算作一个系列。它们都是十年前的旧作，再版时本应有所修订。但因为我忙于三十六卷本“易中天中华史”的撰写，也只能增订，无法修订。所以，这里奉献给读者的是增订本，不是修订本。如果某些观点与“易中天中华史”有异，请以后者为准。
 下面，谨将出版情况作简单说明。
 《费城风云》初版于2004年8月，由山东画报出版社出版，原名《艰难的一跃》，2005年11月更名为《美国宪法的诞生和我们的反思》。2008年4月再次更名为《费城风云》，改由广西师大出版社出版。2011年5月收入上海文艺出版社“易中天文集”时，增加了总题为《隔岸观火》的四篇文章，也都是谈美国政治的。本次再版内容与文集同。
@@ -1232,10 +1233,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：1984</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/1984/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/1984/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/1984/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/1984/</guid>
       <description>本书由乔治·奥威尔(George Orwell)于1948年写就。他的另一部重要小说是《动物农场》(Animal Farm) 奥威尔原名埃里克·阿瑟·布莱尔(Eric Arthur Blair)，1903年生于印度。1907年他举家迁回到英格兰。1917年，他进入伊顿公学。1921年后来到缅甸加入Indian Imperial Police，1928年辞职。随后的日子里他贫病交加，此间他当过教师、书店店员，直到1940年，他成为New English Weekly的小说评论员，他才有了稳定的收入养家糊口。1936年间，他访问了兰开夏郡和约克郡，1936年底，他来到西班牙参加西班牙内战，其间他受伤。二战期间(1940-1943)，他为BBS Eastern Service工作，并在此间写了大量政治和文学评论。1945年起他成为Observer的战地记者和MachesterEvening News的固定撰稿人。1945年，他出版了《动物农场》，1949年出版了《1984》。奥威尔患有肺结核，于1950年死去。
 第一部 第1节
 四月间，天气寒冷晴朗，钟敲了十三下。温斯顿史密斯为了要躲寒风，紧缩着脖子，很快地溜进了胜利大厦的玻璃门，不过动作不够迅速，没有能够防止一阵沙土跟着他刮进了门。
@@ -1292,10 +1293,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：动物农庄</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/animalfarm/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/animalfarm/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/animalfarm/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/animalfarm/</guid>
       <description>乔治·奥威尔 著 1943年11月——1944年2月 中译者：张毅、高孝先
 第一章 故事发生在曼纳庄园里。这天晚上，庄园的主人琼斯先生说是已经锁好了鸡棚，但由于他喝得醉意十足，竟把里面的那些小门都忘了关上。他提着马灯踉踉跄跄地穿过院子，马灯光也跟着一直不停地晃来晃去，到了后门，他把靴子一脚一只踢了出去，又从洗碗间的酒桶里舀起最后一杯啤酒，一饮而尽，然后才上床休息。此时，床上的琼斯夫人已是鼾声如雷了。
 等那边庄主院卧室里的灯光一熄灭，整个庄园窝棚里就泛起一阵扑扑腾腾的骚动。还在白天的时候，庄园里就风传着一件事，说是老麦哲，就是得过“中等白鬃毛”奖的那头雄猪，在前一天晚上作了一个奇怪的梦，想要传达给其他动物。老麦哲（他一直被这样称呼，尽管他在参加展览时用的名字是“威灵顿美神”）在庄园了一直德高望重，所以动物们为了聆听他想要讲的事情，都十分乐意牺牲一小时的睡眠。当时，大家都已经同意，等琼斯先生完全走开后，他们就到大谷仓内集合。
@@ -1365,10 +1366,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：解析中共文化</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/analyzingtheccpculture/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/analyzingtheccpculture/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/analyzingtheccpculture/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/analyzingtheccpculture/</guid>
       <description>上篇 党文化是怎么建立的 第一章：系统的替代传统文化 世界上所有的古文明文化，都是由神话开始的。印度幻化万物的湿婆之舞，雅典宙斯山上诸神的惊心动魄，耶和华维此一念创立世界，埃及太阳神及其万灵护法，以及中国盘古和女娲的伟大神迹，都是这些古老文明的启始来源。数千年以来，人类活动也都在神或者诸天的监护和启示下展开。
 中国人称自己的家园为神州，是神的国度。中国人叫皇帝为“天子”，即天之子，天坛是皇帝祭祀天地之神的地方，面积比紫禁城还要大四倍。“观天之道，执天之行，尽矣。”这是《黄帝阴符经》开篇第一句话，或者说是中华民族有文字记载的第一句话——体察天道，顺天而行，所有道理尽在其中。中国人不但崇拜“天”，而且崇拜的还要是“天”中那个最老的，是谓“老天爷”，这是中国人对宇宙的敬仰。在中国人的记忆里，从盘古开天地，女娲造人，到神农尝百草，神扶持着人类走过了鸿蒙开辟时的艰苦岁月。中华远古半神文化留下的针灸、易经、八卦等文明，虽经几千年，今天的人类仍然只能惊叹而无法完全理解。从轩辕黄帝向神仙广成子问道，孔子向老子问道，再到佛法东传，儒释道为中国人奠定了重德行善的文化内涵，留下了正统的神传文化。显然，在中国的传统文化中，人间规则之外还有通往“天”的部份，人们心里有对冥冥中超越世俗的世界的向往，
 中国人所说的谦卑的真正内涵是对神的敬畏。就连国家发生任何天灾人祸，都和“天子”自身的问题有关，皇帝需要自我反省，进行大赦或者是斋戒沐浴礼敬神天。
@@ -1436,10 +1437,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：进化论--人类最大的科学误区</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/theoryofevolution/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/theoryofevolution/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/theoryofevolution/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/theoryofevolution/</guid>
       <description>前言 据说，在久远的远古时代，寂寥四极，落寞八荒，冷冷清清的地球上没有动物也没有植物。湖泊池塘，面平如镜，连一片浮萍都没有；大海汪洋，一望无际，连一根海藻都没有。
 偶然有一天，电闪雷鸣，轰隆隆地在海面上滚动；狂风呼啸，把海水卷起来化作浪头。霎时间，雷电抓住了一个涌得最高的海浪，把它打得粉碎，连水分子都分解开来，和空气中的氮原子合成了氨基酸分子&amp;mdash; 据说它就是地球上一切生物的本源。
 氨基酸分子偶然地产生出最低级的生物&amp;mdash; 海藻；海藻在数不清的“偶然”机会后，变出了低级植物和动物。又不知经过了多少“偶然”机会后，低级动物变成了鱼类，两栖类，爬行类，哺乳类，最后是灵长类的猴子&amp;mdash; 据说它就是人类最直接的祖先。
@@ -1495,10 +1496,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：韩战回忆录</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/koreanwarmemoirs/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/koreanwarmemoirs/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/koreanwarmemoirs/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/koreanwarmemoirs/</guid>
       <description>韩战回忆录(一)：瞒骗世界53年的军事政治秘密 1950年10月我在辽宁安东（今丹东）解放军某部当文化教员。
 （一）由和平走向战争
 由和平走向战争是那样的突然，令人猝不及防。1950年10月20日这一天，下午打了一场篮球，晚上允许外出，机关人员相约去看戏，安东市剧场很集中，这边大幅广告《小二黑结婚》，那边是《七本怪侠欧阳德》，大家都好武，选择了武戏。戏班走江湖，闯码头很注意灯光布景与迎合潮流，完全按《彭公案》小说情节演出连台本戏，正看得热闹：三请金眼雕邱成，夹壁墙被识破打开，白须白发有金钟罩、铁布衫绝顶功夫的老侠边唱边摇桨在湖上亮相；带著方框眼镜，无冬无夏总翻穿著羊皮袄，脚登大棉靴，舞著铜杆大烟袋的怪侠欧阳德与女贼五花娘打斗中又穿插双人舞……，正看到半出，通讯员通知转移驻防。到了新驻地，章文书抢先挑了临窗的好地方打开背包，铺开军用棉被，我还不太高兴。没等我打开背包，又来了军令，马上出发跨过鸭绿江。
@@ -1567,10 +1568,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：九评共产党</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/ninecommentariesccp/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/ninecommentariesccp/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/ninecommentariesccp/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/ninecommentariesccp/</guid>
       <description>【九评之一】评共产党是什么 前言
 五千年来，中华民族在黄河与长江所哺育的这块土地上滋长生息，历经了数十个朝代，创造了灿烂的文明；其间有起有落、有兴有衰，波澜壮阔、扣人心弦。
 1840年，被史界认为是中国近代史的开端，也是中国从中古世纪走向现代化的起点。从那时候起，中华文明大概经历了四波的挑战和回应。前三波挑战，可以以1860年英法联军攻入北京，1894年中日甲午战争，和1906年日俄在中国东北的战争为冲击肇因所形成的挑战，而中国对之的相应回应，则是器物引进（即洋务运动），制度改良（即戊戌变法和大清立宪），以及后来的辛亥革命。
@@ -1644,10 +1645,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：晚年周恩来</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/zhouold/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/zhouold/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/zhouold/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/zhouold/</guid>
       <description>引子 周恩来死后的三个星期，恰逢中国农历丙辰年的除夕。对许多中国人来说，那是一个刻骨铭心的冬天。当时正值数九寒天，朔风呼啸，滴水成冰。其时国内的政治气候也正如严冬一样，一片肃杀景象。由江青的御用班子清华、北大两校大批判组打头阵的批邓、反击右倾翻案风运动正在紧锣密鼓，大批判的火药味越来越浓。
 那时多半还沉浸在对周恩来之死悲痛之中的中国人，尽管对眼下这场铺天盖地而来的运动已经感到厌倦和不平，对中国的前途忧心忡忡，但只是敢怒而不敢言，因为已经历过太多政治磨难的老百姓大都知道在幕后掌控这一切的那只手是谁。
 就在这个除夕之夜，毛泽东在中南海的住地&amp;ndash;游泳池的院子里突然响起一阵喧闹的爆竹声。一时间，火光冲天，鞭炮声震耳欲聋。这一不同寻常的景象弄得中南海里负责安全警卫的工作人员好一阵紧张，不知道究竟发生了什么事情。
@@ -1713,10 +1714,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁书：清华学子的跌宕人生</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/thebooks/tsinghuastudent/</link>
+      <link>https://guocdorg.github.io/guocd/blog/thebooks/tsinghuastudent/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/thebooks/tsinghuastudent/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/thebooks/tsinghuastudent/</guid>
       <description>编者按：赵明，清华大学电脑系八八级高材生，清华大学紫光集团电脑网路中心项目经理，爱尔兰历史最悠久的三圣大学的在学留学生；风华正茂，却因信仰，在北京的劳教所遭受无从想象的肉体摧残和精神强暴长达二十二个月。
 二○○二年三月，赵明因国际社会的努力重获自由。今天他以泣血的文字，再现了当代中国的《古拉格群岛》：劳教所的内幕、特工和男女警察的种种手段与伎俩、迫害的惨烈、自上而下的重重欺诈……。
 没有华丽的辞藻，但您会感受到赵明真诚的心。此文的思想性与深度可以与《古拉格群岛》媲美。叙述平实，但耐心读下来，您会隐约看到中国的未来。
@@ -1789,10 +1790,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>禁忌史话</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/onlinesources/recomandedvideo2/</link>
+      <link>https://guocdorg.github.io/guocd/blog/onlinesources/recomandedvideo2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/onlinesources/recomandedvideo2/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/onlinesources/recomandedvideo2/</guid>
       <description>禁忌史话 油管精选频道：禁忌史话
 频道简介：專業媒體平台，獨立，客觀，公正。匡扶正義，抑惡揚善。
 点击链接观看
@@ -1831,10 +1832,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>欺世大观</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/onlinesources/recomandedvideo/</link>
+      <link>https://guocdorg.github.io/guocd/blog/onlinesources/recomandedvideo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/onlinesources/recomandedvideo/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/onlinesources/recomandedvideo/</guid>
       <description>欺世大观 油管精选频道：欺世大观
 频道简介：一个个讲真话、拒绝国家欺骗的频道。我们播放的所有节目都是揭露共产党谎言，还原真实历史的内容。
 点击链接观看
@@ -1875,10 +1876,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>中共制造的人祸</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/onlinesources/recomandedvideo3/</link>
+      <link>https://guocdorg.github.io/guocd/blog/onlinesources/recomandedvideo3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/onlinesources/recomandedvideo3/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/onlinesources/recomandedvideo3/</guid>
       <description>人祸的真相 中共制造的人祸不计其数，这里，我们精选了几个最有代表性的事件。
 中共奪命第一渠！削平1250座山頭，為爭水3省發生械鬥；「神話」從開始就注定破滅
 河南强降雨常庄水库泄洪，郑州告急！世界第一大工程技术灾难河南板桥水库溃坝，历史惊人重现！全民呼唤真相！
@@ -1895,10 +1896,10 @@ Resilio Sync 是我们重点推荐的传播工具！
     
     <item>
       <title>中国禁片</title>
-      <link>https://hugo-calligraphy.netlify.app/blog/onlinesources/bandedmovie/</link>
+      <link>https://guocdorg.github.io/guocd/blog/onlinesources/bandedmovie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-calligraphy.netlify.app/blog/onlinesources/bandedmovie/</guid>
+      <guid>https://guocdorg.github.io/guocd/blog/onlinesources/bandedmovie/</guid>
       <description>中国禁片 中國大陸禁片賞析，影片評論，個人思考分享！
 動物農場
 中國禁片，香港民主電影：時代革命
